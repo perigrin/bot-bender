@@ -1,0 +1,8 @@
+.bash_history
+cpanfile.snapshot
+.cpanm
+*.db
+local/
+log/
+.viminfo
+*.yaml
